@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotinMessanger</string>
+    <string name="enter_message">Введите сообщение</string>
+</resources>
